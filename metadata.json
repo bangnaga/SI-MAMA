@@ -1,0 +1,6 @@
+{
+  "name": "SI-MAMA",
+  "description": "Sistem Informasi Pemetaan dan Maintenance Aset Dinas Komunikasi dan Informatika Kabupaten Intan Jaya yang offline-friendly untuk wilayah ekstrem.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
